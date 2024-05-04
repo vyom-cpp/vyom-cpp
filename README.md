@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vyom-cpp/vyom-cpp/output/snake.svg" alt="Snake animation" />
-
-###

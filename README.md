@@ -1,26 +1,8 @@
-<br clear="both">
+# 💫 About Me:
+I am a second year Computer Engineering student with a strong passion for Web Development, Artificial Intelligence, and Machine Learning.
 
-<h1 align="center">Hello, I am Vyom<br>I am a passionate developer from India</h1>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vyom-cpp/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/vyom._14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/vyom_sutariya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -43,11 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vyom-cpp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vyom-cpp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyom-cpp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vyom-cpp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vyom-cpp&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=vyom-cpp&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second year Computer Engineering student with a strong passion for Web Development, Artificial Intelligence, and Machine Learning.
+I am a third year Computer Engineering student with a strong passion for Web Development, Artificial Intelligence, and Machine Learning.
 
 
 # 💻 Tech Stack:

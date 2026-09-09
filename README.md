@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year Computer Engineering student with a strong passion for Web Development, Artificial Intelligence, and Machine Learning.
+I am currently pursuing M.Tech in IT (Robotics and AI Specialization) at IIIT Allahabad.
 
 
 # 💻 Tech Stack:
